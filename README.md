@@ -43,4 +43,8 @@ remixd -s ./contracts/
 
 ## Setup Project Remappings and Run First Unit Test
 
+## Lessons
 
+- [] First Contract
+- [] How to Test a Contract
+- [] How to Deploy a Contract
