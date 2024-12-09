@@ -1,0 +1,10 @@
+learning:
+  - https://github.com/Y2K-Finance/Earthquake.git
+
+utils:
+  - https://github.com/divergencetech/ethier.git
+  - https://github.com/1inch/evm-helpers.git
+
+demos:
+  - https://github.com/ceramicstudio/fluence-demo.git
+  - https://github.com/ErnestChng/is4302-app.git
