@@ -8,3 +8,6 @@ utils:
 demos:
   - https://github.com/ceramicstudio/fluence-demo.git
   - https://github.com/ErnestChng/is4302-app.git
+
+repos:
+  - https://github.com/zeriontech/defi-sdk.git
